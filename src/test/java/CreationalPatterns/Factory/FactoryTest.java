@@ -1,6 +1,5 @@
-package Factory;
+package CreationalPatterns.Factory;
 
-import Factory.User;
 import org.junit.Test;
 
 /**

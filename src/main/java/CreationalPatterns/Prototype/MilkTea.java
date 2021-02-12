@@ -1,4 +1,4 @@
-package Prototype;
+package CreationalPatterns.Prototype;
 
 import lombok.NonNull;
 

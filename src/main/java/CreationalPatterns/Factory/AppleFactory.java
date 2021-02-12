@@ -1,4 +1,4 @@
-package Factory;
+package CreationalPatterns.Factory;
 
 /**
  * @program: DesignPattern

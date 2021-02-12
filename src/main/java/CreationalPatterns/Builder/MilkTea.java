@@ -1,4 +1,4 @@
-package Builder;
+package CreationalPatterns.Builder;
 
 /**
  * @program: DesignPattern
