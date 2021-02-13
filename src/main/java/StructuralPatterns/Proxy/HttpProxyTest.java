@@ -1,4 +1,4 @@
-package Proxy;
+package StructuralPatterns.Proxy;
 
 import org.junit.Test;
 

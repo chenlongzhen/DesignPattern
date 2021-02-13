@@ -1,4 +1,4 @@
-package Proxy;
+package StructuralPatterns.Proxy;
 
 /**
  * @program: DesignPattern
